@@ -1,0 +1,6 @@
+  PID  PPID COMM
+ 1832  1831 -zsh
+  PID  PPID COMM
+ 1831 80779 login
+  PID  PPID COMM
+80779     1 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
